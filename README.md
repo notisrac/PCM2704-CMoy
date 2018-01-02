@@ -1,2 +1,2 @@
 # PCM2704-CMoy
-CMoy headphone amp with a PCM2704 DAC
+[CMoy](https://tangentsoft.net/audio/cmoy/) headphone amp with a [PCM2704](http://www.ti.com/product/PCM2704) DAC
