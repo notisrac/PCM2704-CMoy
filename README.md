@@ -9,3 +9,6 @@
 ## Acknowledgements
 [http://www.pavouk.org/hw/usbdacpcm2704/en_index.html](http://www.pavouk.org/hw/usbdacpcm2704/en_index.html)
 [http://www.isendev.com/app/entry/12](http://www.isendev.com/app/entry/12)
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-122950438-1/PCM2704-CMoy)](https://github.com/igrigorik/ga-beacon)
